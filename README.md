@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @vincetech-hub
+- 👀 I’m interested in Full Stack Web Dev and DevOps 🤖
+- 🌱 I’m currently learning GO and ML/LLM
+- 📹 You can find me on YT: https://www.youtube.com/@vince-tech
+- 📫 Reach me at vince-tech-mail@proton.me
+- ⚡ Fun fact: I love nature and hiking 🗻
